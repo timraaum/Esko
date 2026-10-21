@@ -31,11 +31,13 @@ Produktet er for barn fra 2 år, altså under 3 år. Det utløser de strengeste 
 3. Ved produsentvalg: krev CE-dokumentasjon og EN 71-1/-2/-3-testrapporter som del av tilbudet.
 4. Vurder om vi trenger egen testing hos akkreditert laboratorium i Europa (SGS, Intertek, TÜV, eller Nemko i Norge) i tillegg til produsentens.
 5. Avklar hvem som er "produsent" juridisk (vi eller Oda) og dermed hvem som er ansvarlig for CE-merkingen.
+6. Vurder aldersmerkingen på nytt når vi vet mer om hvem som bygger. Hvis barn fra ca. 4 år bygger selv og de minste først og fremst leker i bygget, svekker merking for 3 år og oppover kanskje ikke målgruppen så mye som antatt.
 
 ## Stabilitet og bruk
 
 I tillegg til regelverket bør vi dokumentere:
 
 - Hvor stabil strukturen er når en toåring drar i den eller lener seg mot den.
-- Hvor lang tid byggingen tar for en vanlig familie.
+- Hvor lang tid byggingen tar for en vanlig familie. Internt målt til 5 minutter med barn og 2 til 3 minutter alene, men av den som har designet klypene.
+- Hvem som klarer å bygge selv i ulike aldre. Antakelse: voksne intuitivt, barn fra ca. 4 år.
 - Hvor mange ganger klypene tåler å settes på og tas av før de mister grep.
