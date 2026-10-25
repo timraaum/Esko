@@ -29,3 +29,4 @@ Avsendere: Tim Raaum Kristiansen og Henning. Selskapsform er foreløpig åpen.
 - [docs/konsept.md](docs/konsept.md) hele tanken og argumentene
 - [docs/beslutninger.md](docs/beslutninger.md) hva som er bestemt og hva som er åpent
 - [docs/testing-og-sikkerhet.md](docs/testing-og-sikkerhet.md) CE-merking, EN 71, materialvalg
+- [pitch/pitchunderlag.md](pitch/pitchunderlag.md) utkast til pitch for Oda, med innvendinger og sjekkliste

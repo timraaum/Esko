@@ -85,9 +85,15 @@ Mulige utvidelser som kan løfte pitchen:
 
 ## Bærekraft
 
+Svaret på "dette er jo bare mer plast" bygger på lek, ikke på materialet:
+
+- Barn har allerede mye plastleker, og de fleste brukes passivt. Esko gjør papp til aktiv, kreativ lek som utfordrer hodet.
+- Klypene er varige og brukes om igjen i mange år, uavhengig av hvor mange esker som kommer.
 - Gjenbruk av esken før gjenvinning. Pappen får minst ett liv til.
-- Klypene er varige og brukes om igjen, uavhengig av hvor mange esker som kommer.
-- Materialvalg og produksjon må underbygge argumentet, ikke undergrave det. Se `docs/testing-og-sikkerhet.md`.
+
+Materialet omtales nøkternt. PLA er en biobasert plast, men det er fortsatt plast, og det er så vidt vi vet vanskelig å gjenvinne i Norge (må verifiseres). Påstander om at PLA "ikke er ordinær plast" kan leses som grønnvasking. Materialet i volumproduksjon er heller ikke bestemt. Se `docs/testing-og-sikkerhet.md`.
+
+En returordning der Odas sjåfør tar med brukte klyper tilbake, kan gjøre historien sterkere, men tas ikke med i første pitch.
 
 ## Produkt og pakker
 
@@ -96,6 +102,10 @@ Mulige utvidelser som kan løfte pitchen:
 - Tilleggssett: flere klyper av én type eller en spesialpakke (dører og vinduer, tak, tunnel).
 - Prisidé: 350 kr for startsett, ca. 199 kr for tilleggssett. Skal verifiseres mot produksjonskost og konkurrenter (se beslutninger).
 
+Det minste kjente bygget er et telt, som krever minst 4 esker og ca. 20 klyper. Det er mer enn en vanlig levering, og nesten like mange klyper som startsettet. Et innstegssett gir bare mening hvis det finnes et bygg av én levering (2 til 3 esker) med 10 til 12 klyper, for eksempel en bil, en butikkdisk, en dukkestue eller en garasje til lekebiler. Ikke testet ennå.
+
+Klypene: minste klype er 60 x 40 x 20 mm. Hengselen har ingen deler som kan løsne. Ingen av ca. 50 printede klyper har knekt eller mistet grep. Pappen kan bli litt slapp ved gjentatt festing på samme sted, så platene varer noen runder, mens klypene varer lenge.
+
 Hvorfor familier kjøper mer: klypene kan brukes om igjen, så en ny eske gir ikke i seg selv behov for flere klyper. Det er størrelsen på bygget som begrenser. Ambisjonen vokser fra hule til hus til hus med tunnel, og da trengs flere klyper og nye typer.
 
 ## Produksjon
@@ -103,6 +113,16 @@ Hvorfor familier kjøper mer: klypene kan brukes om igjen, så en ny eske gir ik
 - Prototyper og lave volum: 3D-print hjemme i PLA.
 - Volum (for eksempel 5 000 sett): produsent i Østen, sprøytestøpt eller tilsvarende, med testdokumentasjon.
 - Produsent bør kunne levere CE-dokumentasjon og EN 71-testing.
+
+## Beskyttelse
+
+Den største risikoen er at Oda lager produktet selv etter pitchen. Den viktigste beskyttelsen er å være den enkleste løsningen: ferdig produkt, produsent, testdokumentasjon og bruksanvisning, slik at det er billigere for Oda å kjøpe av oss enn å starte et internt prosjekt.
+
+- Klypene designregistreres hos Patentstyret før pitchen. Det beskytter utseendet, ikke funksjonen.
+- I første møte viser vi produktet, ikke oppskriften: ingen STL- eller CAD-filer, produsentnavn eller kostnadstall før det finnes en avtale.
+- Ideen dokumenteres løpende med datert historikk i repoet og bilder med dato.
+- Vi ber om taushetserklæring, men lar ikke møtet stå på det.
+- Vi sjekker at "Esko" er ledig som varemerke.
 
 ## Konkurrenter og referanser
 
